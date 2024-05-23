@@ -50,7 +50,7 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
+- 3 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
@@ -76,6 +76,7 @@ Ingredients:
 - Salt and pepper to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
+- 4 slices of cheddar cheese 
 - 4 hamburger buns
 - Lettuce
 - Tomato
@@ -101,7 +102,7 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 4 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
