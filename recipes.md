@@ -76,6 +76,7 @@ Ingredients:
 - Salt and pepper to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
+- 4 slices of cheddar cheese 
 - 4 hamburger buns
 - Lettuce
 - Tomato
