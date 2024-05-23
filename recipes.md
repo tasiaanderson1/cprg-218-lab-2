@@ -113,3 +113,22 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Shortbread Cookies
+Ingredients
+- 10 tbsp unsalted butter unsalted butter, at room temperature 142g
+- 1/2 cup confectioners' sugar
+- 1/2 teaspoon pure vanilla extract
+- 1 1/2 cups all-purpose flour 180g
+- 1/2 teaspoon kosher salt optional
+
+Instructions
+1. In a stand mixer fitted with a paddle attachment, beat butter and vanilla extract until creamed.
+2. Add confectioners sugar and salt; mix until combined.
+3. Scrape bowl down and add flour while beating on low. Scrape bowl once more and mix until combined.
+4. Shape the dough into a rectangular prism, wrap in plastic and chill until firm. At least an hour.
+5. Preheat oven to 350F (177C). Use a sharp knife to cut 1/2 inch thick slices
+6. Place slices, spaced at least an inch apart onto a baking sheet lined with a silicone mat or parchment paper.
+7. Use a fork or skewer to indent a pattern onto the top.
+8. Bake for about 10 minutes, rotating baking sheet in the oven halfway through.
+9. Transfer to a wire sheet to cool.
